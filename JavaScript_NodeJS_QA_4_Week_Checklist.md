@@ -1,7 +1,7 @@
 # JavaScript + Node.js for QA: 4-Week Learning Checklist
 
 ## Week 1: JavaScript Essentials for QA (May 12, 2025)
-- [x] Understand variables (`let`, `const`) and data types (string, number, boolean, array, object).
+- [ ] Understand variables (`let`, `const`) and data types (string, number, boolean, array, object).
 - [ ] Write and use functions (regular & arrow functions).
 - [ ] Practice conditionals (`if`, `else`) and loops (`for`, `while`).
 - [ ] Use array methods: `map`, `filter`, `forEach`, `reduce`.
